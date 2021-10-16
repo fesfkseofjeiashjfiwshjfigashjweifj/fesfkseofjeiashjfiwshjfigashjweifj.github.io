@@ -1,1 +1,3 @@
-# Nara-City.github.io
+# Simple website template (HTML)
+------------------------------------------------
+自由に使用できます。
